@@ -1,3 +1,6 @@
 Chicken
 Mutton
 Fish
+Aaru
+Ghajini
+Ayan
